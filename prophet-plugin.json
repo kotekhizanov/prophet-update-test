@@ -1,7 +1,7 @@
 {
   "id": "update-test",
   "name": "Update test",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "api_version": 1,
   "description": "A test plugin: shows its version, to check that Prophet finds and installs new versions.",
   "homepage": "https://github.com/kotekhizanov/prophet-update-test",

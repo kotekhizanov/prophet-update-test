@@ -1,7 +1,7 @@
 // Update test: shows which version of the plugin Omniscient runs.
 // To test an update: bump VERSION here and "version" in prophet-plugin.json,
 // push, press Check in Settings → Plugins, approve, reload Omniscient.
-const VERSION = "0.2.0";
+const VERSION = "0.3.0";
 
 export function activate(prophet) {
   try {
